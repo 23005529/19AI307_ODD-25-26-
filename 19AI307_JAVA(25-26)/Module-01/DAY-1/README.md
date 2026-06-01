@@ -7,11 +7,16 @@ Write a program to print "Hey, my first java program!" using output statement.
 To write a Java program to print "Hey, my first java program!" using an output statement.
 
 ## ALGORITHM :
+
 1.	Start the program.
-2.Create a class named Main.
-3.Define the main() method.
-4.Use System.out.println() to display the message.
-5.End the program.
+
+2. Create a class named Main.
+
+3. Define the main() method.
+
+4. Use System.out.println() to display the message.
+
+5. End the program.
 
 ## PROGRAM:
  ```
